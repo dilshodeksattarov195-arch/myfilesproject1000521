@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercetch",
+        "uuid": 2425776,
+        "checksum": "v3m2yk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
